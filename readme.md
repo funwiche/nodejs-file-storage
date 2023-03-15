@@ -1,6 +1,6 @@
 # Nodejs File Storage
 
-Manipulate and Store files to MongoDB using Express, Multer and Flash
+Manipulate and Store files to MongoDB using Express, Multer and Sharp
 
 ## Setup
 
